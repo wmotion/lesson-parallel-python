@@ -10,6 +10,9 @@
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/lesson-parallel-python/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/benchmarking.html</loc>
   </url>
   <url>
@@ -28,6 +31,9 @@
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/extra-external-c.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/lesson-parallel-python/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/index.html</loc>
   </url>
   <url>
@@ -38,6 +44,9 @@
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/aio.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/benchmarking.html</loc>
@@ -58,10 +67,19 @@
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/extra-external-c.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/map-and-reduce.html</loc>
@@ -76,7 +94,13 @@
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor/workshops.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/lesson-parallel-python/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/lesson-parallel-python/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/lesson-parallel-python/map-and-reduce.html</loc>
